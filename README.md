@@ -1,4 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is George Justice======================================================================================================================================Web Developer Expert--------------------Seasoned web developer with a strong focus on innovation and user-centric design. Brings extensive experience in crafting responsive, mobile-friendly websites that deliver exceptional user experiences. Specialized in optimizing website performance and implementing the latest technologies. Proven ability to lead development teams and communicate complex technical concepts to non-technical stakeholders.* 🌍  I'm based in Uyo, Nigeria* 🖥️  See my portfolio at [J-Engineers](http://jengineers.com.ng)* ✉️  You can contact me at [ugboguj@yahoo.com](mailto:ugboguj@yahoo.com)* 🚀  I'm currently working on [Phenom App](http://github.com/J-Engineers/Phenom_API)* 🧠  I'm learning React* 🤝  I'm open to collaborating on Projects* ⚡  I am very good at Networking and Servers acquizition, installations and maintenance.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is George Justice
+=============================================
+Web Developer Expert
+--------------------
+Seasoned web developer with a strong focus on innovation and user-centric design. Brings extensive experience in crafting responsive, mobile-friendly websites that deliver exceptional user experiences. Specialized in optimizing website performance and implementing the latest technologies. Proven ability to lead development teams and communicate complex technical concepts to non-technical stakeholders.
+
+* 🌍  I'm based in Uyo, Nigeria
+ * 🖥️  See my portfolio at [J-Engineers](http://jengineers.com.ng)
+* ✉️  You can contact me at [ugboguj@yahoo.com](mailto:ugboguj@yahoo.com)
+* 🚀  I'm currently working on [Phenom App](http://github.com/J-Engineers/Phenom_API)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on Projects
+* ⚡  I am very good at Networking and Servers acquizition, installations and maintenance.
 
 ### Skills
 
